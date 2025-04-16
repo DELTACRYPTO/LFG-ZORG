@@ -1,0 +1,20 @@
+# LFG-ZORG
+
+🔥 HOW TO SAY "LFG ZORGERS" ON-CHAIN (VIA BASESCAN)
+
+Go to this link: https://basescan.org/address/0x1848916375d11047B00ea734FdacCe9580682092#writeContract
+
+Click on the "Contract" tab (below the contract address)
+
+Then click on "Write Contract"
+
+At the top right, click "Connect to Web3" (approve in MetaMask)
+
+Scroll down to the function called sayLFGZORGERS
+
+Click the "Write" button
+
+MetaMask pops up → Click Confirm
+
+Boom. You just shouted LFG ZORGERS on-chain like a true warrior of Zorthar ⚔️
+You can view the message here: https://basescan.org/address/0x1848916375d11047B00ea734FdacCe9580682092#events
